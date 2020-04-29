@@ -233,6 +233,7 @@ h2 {
     background-color: #ff4c68;
     text-align: center;
     padding: 7% 15%;
+    margin-top: 4.5%;
    
 
 }
@@ -240,7 +241,7 @@ h2 {
 #footer {
     background-color: #fff;
     text-align: center;
-    padding: 7% 15%;
+    padding: 10% 15%;
 }
 
 .footer-fa {
